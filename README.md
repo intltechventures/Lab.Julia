@@ -6,3 +6,7 @@ Resources
 * https://github.com/JuliaLang/julia
 
 
+Learning Resources
+* https://benlauwens.github.io/ThinkJulia.jl/latest/book.html
+
+
