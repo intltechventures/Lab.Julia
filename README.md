@@ -11,7 +11,8 @@ Julia Programming Language Resources
 ### Learning Resources
 * https://benlauwens.github.io/ThinkJulia.jl/latest/book.html
 
-
+### Forums
+* https://discourse.julialang.org/
 
 ### Github Resources
 * https://github.com/JuliaOpt
