@@ -6,6 +6,7 @@ Julia Programming Language Resources
 * https://julialang.org/
 * https://docs.julialang.org/
   * https://docs.julialang.org/en/v1/
+  * https://docs.julialang.org/en/v1/manual/style-guide/#Style-Guide-1
 * https://github.com/JuliaLang/julia
 
 
