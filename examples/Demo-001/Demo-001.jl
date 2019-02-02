@@ -1,3 +1,12 @@
+"""
+  A demo program to explore Julia String and Char handling
+
+  Referneces:
+    * https://docs.julialang.org/en/v1/manual/strings/
+"""
+
+
+
 "Demo of Julia String handling"
 
 "Char handling example code"
