@@ -4,15 +4,20 @@ Julia Programming Language Resources
 
 ### References
 * https://julialang.org/
-* https://docs.julialang.org/en/stable/
+* https://docs.julialang.org/
+  * https://docs.julialang.org/en/v1/
 * https://github.com/JuliaLang/julia
 
 
 ### Learning Resources
+* https://julialang.org/learning/
+* https://www.youtube.com/user/JuliaLanguage
 * https://benlauwens.github.io/ThinkJulia.jl/latest/book.html
+
 
 ### Forums
 * https://discourse.julialang.org/
+
 
 ### Github Resources
 * https://github.com/JuliaOpt
