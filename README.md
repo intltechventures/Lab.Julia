@@ -18,6 +18,9 @@ Julia Programming Language Resources
 
 ### Forums
 * https://discourse.julialang.org/
+* https://www.reddit.com/r/Julia
+* https://stackoverflow.com/questions/tagged/julia-lang
+
 
 
 ### Github Resources
